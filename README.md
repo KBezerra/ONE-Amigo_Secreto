@@ -15,7 +15,7 @@ A tela inicial apresenta um design simples e elegante, solicitando ao usuário q
 
 (imagem)
 
-A dinâmica é intuitiva: basta digitar um nome e clicar no botão "Adicionar". Se o botão for pressionado sem nenhum nome inserido, um alerta será exibido pedindo que o campo seja preenchido. À medida que os nomes são adicionados, eles aparecem listados logo abaixo, permitindo visualizar quem já está participando do sorteio.
+A dinâmica é intuitiva: basta digitar um nome e clicar no botão "Adicionar". Se o botão for pressionado sem nenhum nome inserido, um alerta será exibido pedindo que o campo seja preenchido. À medida que os nomes são adicionados, eles aparecem listados logo abaixo, permitindo visualizar quem já está participando do sorteio e se necessário, retirar algum nome.
 
 **Realizando o Sorteio**
 
